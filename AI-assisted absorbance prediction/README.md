@@ -1,8 +1,8 @@
-# Supplementary Information - Source Code
+# Source Code of AI-assisted absorbance prediction
 
-Supplementary Information of article **'Roboticized AI-assisted microfluidic photocatalytic synthesis and screening up to 10,000 reactions per day'**.
+This repository (i.e., repository **No. 1**) provides the source code related to the section **'AI-assisted absorbance prediction and ultra-high-throughput photocatalytic screening'**.
 
-This repository provides the data set and the source code related to the section **'AI-assisted ultra-high-throughput photocatalytic synthesis and screening'**.
+The AI regression models were trained and optimized using the self-developed **RegressionModels_UI** software, with specific tasks including the selection of the model's PCA mode and training set ratio, the hyperparameter optimization, and the cross-validation studies. Then, with the help of the **RegressionModels_UI** software, the prediction of absorbance data was performed using the optimized model.
 
 ## 1. Python environment configuration
 The code was written and tested in **Python 3.6.13**.
