@@ -1,4 +1,4 @@
-# Source Code of AI-assisted absorbance prediction
+# Source Code and dataset of AI-assisted absorbance prediction
 
 This repository (i.e., repository **No. 1**) provides the source code related to the section **'AI-assisted absorbance prediction and ultra-high-throughput photocatalytic screening'**.
 
