@@ -7,9 +7,9 @@ The AI regression models were trained and optimized using the self-developed **R
 ## 1. Python environment configuration
 The code was written and tested in **Python 3.6.13**.
 
-Python packages that need to be installed: **pandas(1.1.5), numpy(1.19.2), scikit-learn(0.24.2), xgboost(1.5.2), deep-forest(0.1.5), PyQt5(5.15.4)**.
+Python packages that need to be installed include **pandas(1.1.5), numpy(1.19.2), scikit-learn(0.24.2), xgboost(1.5.2), deep-forest(0.1.5), PyQt5(5.15.4)**.
 
-Users can also try using other versions of Python and packages.
+Users can also try other versions of Python and packages.
 
 ## 2. User guide
 **2.1. User interface**
