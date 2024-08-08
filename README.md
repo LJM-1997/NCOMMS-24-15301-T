@@ -1,4 +1,4 @@
-# Supplementary Information - Source Code
+# Supplementary Information - Source code and datasets
 
 Supplementary Information of article **'Roboticized AI-assisted microfluidic photocatalytic synthesis and screening up to 10,000 reactions per day'**.
 
