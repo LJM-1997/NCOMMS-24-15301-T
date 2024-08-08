@@ -1,2 +1,2 @@
 # dataset.xlsx
-The dataset used by the regression models
+The dataset was used by the AI regression models.
