@@ -1,6 +1,6 @@
 # Source code and dataset of AI-assisted absorbance prediction
 
-This repository (i.e., repository **No. 1**) provides the source code and dataset related to the section **'AI-assisted absorbance prediction and ultra-high-throughput photocatalytic screening'**.
+This repository provides the source code and dataset related to the section **'AI-assisted absorbance prediction and ultra-high-throughput photocatalytic screening'**.
 
 The AI regression models were trained and optimized using the self-developed **RegressionModels_UI** software, with specific tasks including the selection of the model's PCA mode and training set ratio, the hyperparameter optimization, and the cross-validation studies. Then, with the help of the **RegressionModels_UI** software, the prediction of absorbance data was performed using the optimized model.
 
