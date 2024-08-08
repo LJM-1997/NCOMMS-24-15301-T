@@ -1,2 +1,2 @@
 # dataset.xlsx
-The data set used by the regression models
+The dataset used by the regression models
