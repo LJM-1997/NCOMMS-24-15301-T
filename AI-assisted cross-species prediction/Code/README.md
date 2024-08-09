@@ -1,5 +1,5 @@
 ﻿# Introduction of code and data
-This is the implementation for cross-substrate and cross-photocatalyst prediction, which includes two main parts: Data preprocessing and Model building.
+This is the implementation for cross-substrate and cross-photocatalyst prediction, which includes two main parts: **'Data preprocessing'** and **'Model building'**.
 
 ## Data preprocessing
 * We provide a step-by-step workflow in ``$ data_preprocessing.ipynb`` to show the preprocessing of the data. 
