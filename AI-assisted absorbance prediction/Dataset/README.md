@@ -1,5 +1,5 @@
 # Dataset used for 'AI-assisted absorbance prediction'
-The dataset was used for 'AI-assisted absorbance prediction', including the selection of the model's PCA mode and training set ratio, the optimization of hyperparameters, the cross-validation studies, and the prediction of steady-state absorbance data.
+The dataset was used for 'AI-assisted absorbance prediction', including the selection of the AI regression model's PCA mode and training set ratio, the optimization of hyperparameters, the cross-validation studies, and the prediction of steady-state absorbance data.
 
 In the dataset, as shown in Figure 4A, each row shows the data of a condition screening experiment, including the conditions (i.e., 8 variables) as well as the results
 (i.e., 40 recordings of non-steady-state absorbance, and the change in steady-state absorbance) of the experiment.
