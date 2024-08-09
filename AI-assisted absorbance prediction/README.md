@@ -24,8 +24,8 @@ After completing the above configuration, users can run the **RegressionModels\_
 2. Run the **RegressionModels\_UI.py** file.
 3. Click the '**Load Dataset**' button to load the dataset.
 4. The **5** in ‘**Which Excel worksheet is the dataset in? (Index start from 0)**’ edit box means the data we want to use is in the 6th worksheet of the xlsx file. The index value starts from 0, and the index value of the 6th worksheet is 5. Here, the user does not need to modify.
-5. The **8** in '**Non-steady state data column index start value**' edit box means the index value of the starting column of non-stationary data is 8. Here, the user does not need to modify.
-6. The **40** in '**Non-steady state data column quantity**' edit box means the number of columns of Non-steady state data is 40 columns. Here, the user does not need to modify.
+5. The **8** in '**Non-steady state data column index start value**' edit box means the index value of the starting column of non-steady-state data is 8. Here, the user does not need to modify.
+6. The **40** in '**Non-steady state data column quantity**' edit box means the number of columns of non-steady state data is 40. Here, the user does not need to modify.
 7. Select PCA Mode. A total of 3 PCA processing methods are built-in, namely 'Mode 1 (PCA Non-steady state data)', 'Mode 2 (PCA all data)', 'Mode 3 (no PCA)'.
 8. Select Train set ratio. There are 2 built-in options, namely **[0.7]**, **[0.025, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7]**. Users can modify, add or delete values ​​within options. But don't destroy the structure of the list, and make sure there is at least one value in the list. For example, we can change **[0.7]** to **[0.6]**, but do not delete the **[]** on both ends of 0.6
 9. Select a model. A total of 12 regression models are built-in.
