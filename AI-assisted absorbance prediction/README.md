@@ -1,6 +1,6 @@
 # Source code and dataset of AI-assisted absorbance prediction
 
-This repository provides the source code and dataset related to the section **'AI-assisted absorbance prediction'**.
+This repository provides the **source code** and **dataset** related to the section **'AI-assisted absorbance prediction'**.
 
 The AI regression models were trained and optimized using the self-developed **RegressionModels_UI** software, with specific tasks including the selection of the model's PCA mode and training set ratio, the optimization of hyperparameters, and the cross-validation studies. Then, the prediction of steady-state absorbance data were performed using the optimized AI models.
 
