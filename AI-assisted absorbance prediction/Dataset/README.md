@@ -1,4 +1,4 @@
-# Dataset for AI-assisted absorbance prediction
+# Dataset used for 'AI-assisted absorbance prediction'
 The dataset was used by the AI regression models.
 
 In the dataset, as shown in Figure 4A, each row shows the data of a condition screening experiment, including the conditions (i.e., 8 variables) as well as the results
