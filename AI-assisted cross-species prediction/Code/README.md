@@ -8,8 +8,8 @@ This is the implementation for cross-substrate and cross-photocatalyst predictio
 
 ## Model building
 * We provide a step-by-step workflow in ``$ cross_validation.ipynb`` to show the model training and experimental results.
-* The code uses **data_after_preprocessing.csv** as input.
-* ``$ cross_validation.ipynb`` also includes the cross-validation code and results for cross-substrate and cross-photocatalyst prediction.
+* This section takes **data_after_preprocessing.csv** as input.
+* The ``$ cross_validation.ipynb`` also includes the cross-validation code and results for cross-substrate and cross-photocatalyst prediction.
 
 
 
