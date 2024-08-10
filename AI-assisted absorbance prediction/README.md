@@ -28,9 +28,9 @@ After completing the above configuration, users can run the **RegressionModels\_
 6. The **40** in '**Non-steady state data column quantity**' edit box means the number of columns of non-steady state data is 40. Here, the user does not need to modify.
 7. Select the PCA Mode. A total of 3 PCA processing methods are built-in, namely 'Mode 1 (PCA Non-steady state data)', 'Mode 2 (PCA all data)', 'Mode 3 (no PCA)'.
 8. Select the train set ratio. There are 2 built-in options, namely **[0.7]**, **[0.025, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7]**. Users can modify, add or delete values ​​within options. But don't destroy the structure of the list, and make sure there is at least one value in the list. For example, we can change **[0.7]** to **[0.6]**, but do not delete the **[]** on both ends of 0.6.
-9. Select a model. A total of 12 regression models are built-in, among which the absorbance prediction results of 10 regression models are shown in the article.
+9. Select a model. A total of 12 regression models are built-in, among which the prediction results of 10 regression models are shown in the article.
 10. The **random\_state** is a parameter in train\_test\_split that controls the random number generator used to shuffle the data before splitting it. Here we set it to 42.
-11. The **GridSearchCV - cv** means the fold of cross validation used for grid search. Here we set it to 5, users can also set it to 10 or other values.
-12. The **GridSearchCV - Parameters Grid** means hyperparameter information of the model used for grid search. Here, users can modify the hyperparameter name and value range, but you must make sure that the hyperparameter name and value range you modify are valid.
-13. Select the folder to save the model prediction results file for the test set.
+11. The **GridSearchCV - cv** means the fold of cross-validation used for grid search. Here we set it to 5, users can also set it to 10 or other values.
+12. The **GridSearchCV - Parameters Grid** means hyperparameter information of the model used for grid search. Here, users can modify the hyperparameter names and value ranges, but must ensure that the modified hyperparameter names and value ranges are valid.
+13. Select the folder to save the prediction results file for the test set.
 14. Click the '**Train, Predict and Report**' button to start dataset partitioning, dataset preprocessing, grid search (model training, cross-validation evaluation and hyperparameter optimization), use the trained model to predict the test set, calculate the performance indicators of the model on the test set, and save the result file to the specified folder.
