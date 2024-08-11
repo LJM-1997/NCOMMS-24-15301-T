@@ -2,7 +2,7 @@
 
 This repository provides the **source code** and **dataset** related to the section **'AI-assisted absorbance prediction'**.
 
-The task of this section was to utilize the AI models to help analyze the influencing factors related to diffusion effects, and to predict the steady-state absorbance data (i.e., the outputs) using the non-steady-state absorbance and the reaction conditions as the inputs.
+Utilizing the AI models, the task was to help analyze the influencing factors related to diffusion effects, and to predict the steady-state absorbance data (i.e., the outputs) using the non-steady-state absorbance and the reaction conditions as the inputs.
 
 The AI regression models were trained and optimized using the self-developed **RegressionModels_UI** software, with specific tasks including the selection of the model's PCA mode and training set ratio, the optimization of hyperparameters, and the cross-validation studies. Then, the prediction of steady-state absorbance data were performed using the optimized AI models.
 
