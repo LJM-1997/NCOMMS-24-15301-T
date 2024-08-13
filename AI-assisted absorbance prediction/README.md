@@ -16,7 +16,7 @@ Users can also try other versions of Python and packages.
 ## 2. User guide
 **2.1. User interface**
 
-After completing the above configuration, users can run the **RegressionModels\_UI.py** file. If all configurations are OK, the program will display the following user interface.
+After completing the above configuration, users can run the **AI-assisted\_absorbance\_prediction\_program\_with\_GUI.py** file. If all configurations are OK, the program will display the following user interface.
 
 ![image](https://github.com/WangJianwei1991/LJM_Regression/assets/35262865/cfd24674-9355-4550-967f-a72881468453)
 
