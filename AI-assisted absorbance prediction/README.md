@@ -23,7 +23,7 @@ After completing the above configuration, users can run the **AI-assisted\_absor
 **2.2. Usage**
 
 1. Download the dataset.xlsx file. 
-2. Run the **RegressionModels\_UI.py** file.
+2. Run the **AI-assisted\_absorbance\_prediction\_program\_with\_GUI.py** file.
 3. Click the '**Load Dataset**' button to load the dataset.
 4. The **5** in ‘**Which Excel worksheet is the dataset in? (Index start from 0)**’ edit box means the data we want to use is in the 6th worksheet of the xlsx file. The index value starts from 0, and the index value of the 6th worksheet is 5. Here, the user does not need to modify.
 5. The **8** in '**Non-steady state data column index start value**' edit box means the index value of the starting column of non-steady-state data is 8. Here, the user does not need to modify.
