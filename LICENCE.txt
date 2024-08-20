@@ -1,4 +1,6 @@
-Copyright (c) 2024 Qun Fang
+The MIT License
+
+Copyright (c) 2024 Qun Fang, Guang-Yong Chen, Jia-Min Lu, Jian-Wei Wang, Ke-Xin Chen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
